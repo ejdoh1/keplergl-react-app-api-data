@@ -57,7 +57,7 @@ function App() {
     <KeplerGl
       id="map"
       width={window.innerWidth}
-      mapboxApiAccessToken="pk.eyJ1IjoiZWpkb2gxIiwiYSI6ImNrNmZyNnp6MTJieDczbXFqM3J1cjl3NngifQ.VhFgmTGc0dTSUm3QwMD5jQ"
+      mapboxApiAccessToken="REPLACE_ME"
       height={window.innerHeight}
     />
   );
